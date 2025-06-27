@@ -2,7 +2,7 @@
 
 A modern, immersive weather web app that shows current weather and a 5-day forecast for any city, with a beautiful glassmorphism UI.
 
-![Weather Tracker Screenshot](screenshot.png)
+
 
 ## Features
 
